@@ -1,0 +1,5 @@
+node_modules/
+home/node_modules/
+login/node_modules/
+home/build/
+login/build/
